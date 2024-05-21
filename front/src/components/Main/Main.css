@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .container{
+    padding: 0px 20px;
+} */
+
+.image{
+   padding-top: 83px;
+}
+.education1{
+   padding: 50px 100px;
+    background-color: #4e4e4e;
+    width: auto;
+
+}
+.title{
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: Anton, sans-serif;
+}
+.text{
+    font-size: 18px;
+    color: #939393;
+    margin-top: 20px;
+}
+.education2{
+    padding: 50px 100px;
+    background-color: #fd5f00;
+    width: auto;
+}
+.education3{
+    padding: 50px 100px;
+    background-color: #a23131;
+    width: auto;
+ }
+ .sections{
+    display: flex;
+ }
+ .main{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(49, 49, 49);
+ }
